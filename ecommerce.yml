@@ -1,6 +1,6 @@
 token:
   expiration_time:  86400000
-  secret: ganadaramabasaajachakatapahahoho
+  secret: '{cipher}AQBIvodRAMBV3xLK46LGPnpZDgCWrlXthLtv+NzHIb+I7lryPcqtMPIggy3AXbodlSCsIhjPRaWHCAWGXmm3Nd1falJeHwFgOKlkPhcGSBjQWe+v8xgNX9OXo2cfUv2wIG1HfKHx6JuFbdLdFFRJsGFwPnJcqu4oETBWFo9PEhVZtX+c4uE083SJWYs5IBM2m3wTrwo77zbOdAReiF7oXAYu+r6Pyajii99p59JXw7RnhkvZttH0CG3Z/XPk1+nlCEzPCQn1f7HZw9bFCfsqynZ7gf3CjlotaivVtTwQDryjI7CGDkTJv2OHJ+UHP8cAuQAsoRAlWRGC+pYfVduRFcjp8zaQsICnKw6IOxcbya+bXhPWodZS/y6GzmyS/h98xZvGiKFpOJ0iIZ48RTtCqBKHI7TbCPqUn4bYRcUm8kK+kXc+pCnSHGaJeZ6LrwFMC20='
 
 gateway:
   ip: 192.168.0.8
