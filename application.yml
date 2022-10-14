@@ -14,7 +14,7 @@ spring:
     password:
 
 order_service:
-  url:  http://localhost:8080/order-service/%s/orders
+  url:  http://ORDER_SERVICE/order-service/%s/orders
 
 gateway:
   ip: 192.168.0.8
