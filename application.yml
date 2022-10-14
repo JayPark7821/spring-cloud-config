@@ -13,5 +13,8 @@ spring:
     username: '{cipher}AQBK4hxdfL9Lbza0LPaMwoxbQhUF0C/ANxPJ35WnSG3lffBd2oHgi1JE85DTjc5uJ2iumxRKrgAWQcvKUOuu6S5q0yG2FONcIItAxdRhbLH+VqM7vC8/NEyfQ6p9RrYPzR3Wowmg0Tl/9Uhvc3kJaW13z/FAme9pXXP6lc/vfvpVK7L7Bxx3pd+YWvdlEl4ZfeqrXjEWILOjVHSQHSBcNREFiNGBKqHdITbATXDXIYVvYjNFrKtvaD4I6uyx/66win40u28ixAGJrXZgq83/RfTQia5NG+mN/BgCHubo6Brz3OUbYVWZgfxalT/cGIjGRs/zWaK0ONFaVtysPk8N7AQViPN1rP5XQtqV1mitmHEtg+iB8abCfeflGquQnHE+N8U='
     password:
 
+order_service:
+  url:  http://localhost:8080/order-service/%s/orders
+
 gateway:
   ip: 192.168.0.8
